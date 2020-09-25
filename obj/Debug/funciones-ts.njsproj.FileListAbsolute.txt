@@ -1,0 +1,3 @@
+C:\Users\Usuario\AGIT\funciones\funciones-ts\obj\Debug\funciones-ts.njsprojAssemblyReference.cache
+C:\Users\Usuario\AGIT\funciones\funciones-ts\obj\Debug\funciones-ts.njsproj.CoreCompileInputs.cache
+C:\Users\Usuario\AGIT\funciones\funciones-ts\bin\Microsoft.NodejsTools.WebRole.dll
