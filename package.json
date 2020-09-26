@@ -1,10 +1,11 @@
 {
   "name": "funciones",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "funciones",
-  "main": "server.js",
+  "main": "servidor.js",
   "scripts": {
-    "dev": "nodemon dev"
+    "cyp" :"cypress open",
+    "dev": "nodemon dev && tsc --watch && node dist/index.js"
   },
   "author": {
     "name": "robberr"
